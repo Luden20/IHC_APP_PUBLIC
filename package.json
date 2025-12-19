@@ -1,0 +1,15 @@
+{
+  "name": "ihc-app-ci",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scripts auxiliares para CI/CD (backup antes de deploy en Railway).",
+  "scripts": {
+    "backup": "node scripts/create-backup.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "archiver": "^6.0.0"
+  }
+}

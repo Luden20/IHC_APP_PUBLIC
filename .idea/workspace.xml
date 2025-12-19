@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bda6e11f-6e4d-4d47-82a1-8df71324daad" name="Changes" comment="migrations only">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5aaa9d35-9ef3-42d3-ab3a-c87438ec7887.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5aaa9d35-9ef3-42d3-ab3a-c87438ec7887.xml" afterDir="false" />
+    <list default="true" id="bda6e11f-6e4d-4d47-82a1-8df71324daad" name="Changes" comment="view emails">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,7 @@
       <recent name="C:\GITHUB\IHC_APP\internal\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.pocketbase">
+  <component name="RunManager" selected="Go Build.crearMigraciones">
     <configuration name="crearMigraciones" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="pocketbaseCustom" />
       <working_directory value="$PROJECT_DIR$" />
@@ -173,9 +174,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="migraciones" />
-    <MESSAGE value="api para subir foto a un evento" />
-    <MESSAGE value="invitacion de un evento" />
     <MESSAGE value="migracion portada" />
     <MESSAGE value="intento notificaciones" />
     <MESSAGE value="fix docker" />
@@ -198,7 +196,10 @@
     <MESSAGE value="invite devuelve el id de la fiesta" />
     <MESSAGE value="little fixes" />
     <MESSAGE value="migrations only" />
-    <option name="LAST_COMMIT_MESSAGE" value="migrations only" />
+    <MESSAGE value="volviendo a la normalidad" />
+    <MESSAGE value="fix api rules users" />
+    <MESSAGE value="view emails" />
+    <option name="LAST_COMMIT_MESSAGE" value="view emails" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
